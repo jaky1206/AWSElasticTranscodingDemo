@@ -1,0 +1,26 @@
+{
+    "name": "aws-ec2-s3-et",
+    "version": "1.0.0",
+    "description": "AWS Elastic Transcoding, S3 Bucket demo on EC2 Server using JavaScript SDK",
+    "main": "upload_and_transcode.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/jaky1206/aws-ec2-s3-et-demo.git"
+    },
+    "keywords": [
+      "aws",
+      "ec2",
+      "s3",
+      "elastic transcode"
+    ],
+    "author": "Sayed Rokibul Hossain",
+    "license": "MIT",
+    "homepage": "https://github.com/jaky1206/aws-ec2-s3-et-demo/blob/master/README.md",
+    "dependencies": {
+      "aws-sdk": "^2.147.0"
+    }
+  }
+  
