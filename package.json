@@ -1,5 +1,5 @@
 {
-    "name": "aws-ec2-s3-et",
+    "name": "aws-ec2-s3-et-demo",
     "version": "1.0.0",
     "description": "AWS Elastic Transcoding, S3 Bucket demo on EC2 Server using JavaScript SDK",
     "main": "upload_and_transcode.js",
